@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
   "name": "SEI++",
-  "short_name": "SEI++",
+  "short_name": "SEI++ for Chromium",
   "description": "SEI++: Adiciona novas funcionalidades ao Sistema Eletrônico de Informações - SEI (Requer uma versão do SEI maior ou igual a 3.0.0).",
-  "version": "5.1.2",
+  "version": "5.1.3",
   "author": "Jonatas Evaristo / Nicollas Soares",
-  "homepage_url": "https://jonatasrs.github.io/sei/",
+  "homepage_url": "https://github.com/nickksoares/sei",
   "icons": {"48": "icons/seipp.png"},
   "permissions": [
     "storage",
